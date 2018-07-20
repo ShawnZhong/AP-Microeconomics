@@ -1,0 +1,9 @@
+li {
+	line-height: 200%;
+}
+p {
+	line-height: 200%;
+}
+li:only-child {
+	margin-bottom: .85em;
+}
