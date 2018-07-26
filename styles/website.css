@@ -7,3 +7,6 @@ p {
 li:only-child {
 	margin-bottom: .85em;
 }
+img {
+	vertical-align: middle;
+}
