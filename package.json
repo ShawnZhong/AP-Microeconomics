@@ -1,10 +1,4 @@
 {
-  "name": "ap-microeconomics",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ShawnZhong/AP-Microeconomics.git"
-  },
-  "homepage": "https://github.com/ShawnZhong/AP-Microeconomics.git#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-meta": "^0.1.12",
