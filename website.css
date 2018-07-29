@@ -1,9 +1,12 @@
 li, p {
 	line-height: 200%;
 }
-ul, ol {
-	margin-bottom: .85em !important;
-}
 img {
 	vertical-align: middle;
+}
+.markdown-section ul, .markdown-section ol {
+	margin-bottom: .85em !important;
+}
+table {
+	text-align: center;
 }
