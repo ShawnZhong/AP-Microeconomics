@@ -1,9 +1,7 @@
 # [AP Microeconomics](https://Micro.shawnzhong.com)
-Notes and Exercises on Advanced Placement Microeconomics. Your comments and criticism are greatly welcomed.
+Notes and Exercises on Advanced Placement Microeconomics. I took notes based on the videos tutorials at [educator.com](https://www.educator.com/economics/ap-microeconomics/park/) and the past exams collected below. You can alsp download a PDF version of the notes   <a href="AP-Microeconomics.pdf"  target="_blank" >here</a>.
 
-I took notes based on the videos tutorials at [educator.com](https://www.educator.com/economics/ap-microeconomics/park/), and the past exams collected below.
-
-You can download a PDF version of the notes   <a href="AP-Microeconomics.pdf"  target="_blank" >here</a>, and please feel free to visit my website at [shawnzhong.com](https://shawnzhong.com).
+The source for the website is hosted on [GitHub](https://github.com/ShawnZhong/AP-Microeconomics). 
 
 # Past Exams
 #### Released Exam
